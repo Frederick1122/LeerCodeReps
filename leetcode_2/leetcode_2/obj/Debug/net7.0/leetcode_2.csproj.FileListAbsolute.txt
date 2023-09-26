@@ -1,0 +1,15 @@
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\bin\Debug\net7.0\leetcode_2.exe
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\bin\Debug\net7.0\leetcode_2.deps.json
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\bin\Debug\net7.0\leetcode_2.runtimeconfig.json
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\bin\Debug\net7.0\leetcode_2.dll
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\bin\Debug\net7.0\leetcode_2.pdb
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\leetcode_2.csproj.AssemblyReference.cache
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\leetcode_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\leetcode_2.AssemblyInfoInputs.cache
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\leetcode_2.AssemblyInfo.cs
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\leetcode_2.csproj.CoreCompileInputs.cache
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\leetcode_2.dll
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\refint\leetcode_2.dll
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\leetcode_2.pdb
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\leetcode_2.genruntimeconfig.cache
+C:\Users\zalet\source\repos\leetcode_2\leetcode_2\obj\Debug\net7.0\ref\leetcode_2.dll

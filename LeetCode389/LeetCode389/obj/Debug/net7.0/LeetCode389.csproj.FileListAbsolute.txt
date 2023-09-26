@@ -1,0 +1,15 @@
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\bin\Debug\net7.0\LeetCode389.exe
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\bin\Debug\net7.0\LeetCode389.deps.json
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\bin\Debug\net7.0\LeetCode389.runtimeconfig.json
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\bin\Debug\net7.0\LeetCode389.dll
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\bin\Debug\net7.0\LeetCode389.pdb
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\LeetCode389.csproj.AssemblyReference.cache
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\LeetCode389.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\LeetCode389.AssemblyInfoInputs.cache
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\LeetCode389.AssemblyInfo.cs
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\LeetCode389.csproj.CoreCompileInputs.cache
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\LeetCode389.dll
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\refint\LeetCode389.dll
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\LeetCode389.pdb
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\LeetCode389.genruntimeconfig.cache
+C:\Users\zalet\source\repos\LeetCode389\LeetCode389\obj\Debug\net7.0\ref\LeetCode389.dll
