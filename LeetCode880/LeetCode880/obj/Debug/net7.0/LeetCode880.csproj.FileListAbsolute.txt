@@ -1,0 +1,15 @@
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\bin\Debug\net7.0\LeetCode880.exe
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\bin\Debug\net7.0\LeetCode880.deps.json
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\bin\Debug\net7.0\LeetCode880.runtimeconfig.json
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\bin\Debug\net7.0\LeetCode880.dll
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\bin\Debug\net7.0\LeetCode880.pdb
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\LeetCode880.csproj.AssemblyReference.cache
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\LeetCode880.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\LeetCode880.AssemblyInfoInputs.cache
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\LeetCode880.AssemblyInfo.cs
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\LeetCode880.csproj.CoreCompileInputs.cache
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\LeetCode880.dll
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\refint\LeetCode880.dll
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\LeetCode880.pdb
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\LeetCode880.genruntimeconfig.cache
+C:\Repos\LeerCodeReps\LeetCode880\LeetCode880\obj\Debug\net7.0\ref\LeetCode880.dll
